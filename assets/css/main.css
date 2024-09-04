@@ -2637,7 +2637,7 @@ span {
   position: relative;
   height: 100%;
   padding: 30px 30px;
-  background-color: #ffffff;
+  background-color: #14691c;
 }
 .offcanvas__wrapper .offcanvas__content .text {
   color: var(--white);
@@ -2758,7 +2758,7 @@ span {
   height: 100%;
   content: "";
   z-index: -1;
-  background: var(--theme);
+  background: #14691c;
 }
 .breadcrumb-wrapper .shape-image {
   position: absolute;
