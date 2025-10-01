@@ -563,6 +563,12 @@ span {
     transform: rotate(20deg);
   }
 }
+.form-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
 .cir36 {
   animation: cir36 20s linear infinite;
   -webkit-animation: cir36 20s linear infinite;
